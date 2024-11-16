@@ -15,6 +15,6 @@ We are using components from all the three remotes applications in host applicat
 5. You will see components from all the three child applications are used in host application.
 
 ### Demo link urls
-https://youtu.be/qkaTFb7mOb4?feature=shared
-https://youtu.be/bBm6D3R7NN8?feature=shared
+1. https://youtu.be/qkaTFb7mOb4?feature=shared
+2. https://youtu.be/bBm6D3R7NN8?feature=shared
 
